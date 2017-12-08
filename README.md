@@ -1,4 +1,4 @@
-# AtomCream Coding Exercise
+# Coding Exercise
 
 For this exercise, please complete the implementation of the `Dish`
 class and `choose_best_dish_for_dinner` function. Stubs of both are
